@@ -1,259 +1,198 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C2FF&height=220&section=header&text=Luca&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Creator%20%7C%20Builder&descAlignY=60&descSize=20" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:06B6D4&height=240&section=header&text=Luca%20%2F%20Kugelwasser&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Problem%20Solver&descAlignY=60&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=Ich+baue%2C+was+mir+in+den+Kopf+kommt.;Code.+Testen.+Kaputtmachen.+Verbessern.;Von+der+Idee+bis+zum+laufenden+System.;Neugierig+auf+Technik+unter+der+Haube." alt="Typing SVG"/>
+
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Ich+baue+Dinge%2C+die+wirklich+funktionieren.;Code.+Erschaffen.+Verbessern.;Immer+lernen.+Immer+bauen.;Ideen+in+Realität+verwandeln." alt="Typing SVG"/>
-<a href="https://kugelwasser-portfolio.netlify.app">
-<img src="https://img.shields.io/badge/🚀%20MEIN%20PORTFOLIO-6C63FF?style=for-the-badge" />
-</a>
-<a href="https://github.com/Kugelwasser">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+
+<a href="https://kugelwasser-portfolio.netlify.app"><img src="https://img.shields.io/badge/🚀%20Portfolio-7C3AED?style=for-the-badge"/></a>
+<a href="https://github.com/Kugelwasser"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
+
 </div>
 
-⸻
+---
 
-👋 Hey, ich bin Luca!
+## 👋 Wer steckt dahinter?
 
-Ich bin Entwickler und habe Spaß daran, Ideen in echte Projekte zu verwandeln.
+Hey, ich bin **Luca** – online meistens **Kugelwasser**.
 
-Ich probiere gerne verschiedene Technologien aus, möchte verstehen, was unter der Oberfläche passiert, und baue meine eigenen Lösungen, anstatt mich immer auf fertige Systeme zu verlassen.
+Ich entwickle Software, Websites, Apps und Multiplayer-Systeme und probiere ständig neue Technologien aus. Dabei geht es mir nicht nur darum, dass etwas funktioniert – ich will verstehen, **warum** es funktioniert.
 
-Meine Hauptinteressen sind Webentwicklung, Softwareentwicklung, App-Entwicklung und kreative Technologien.
+Ich lerne am liebsten, indem ich Dinge selbst baue. Eine Idee? Dann wird sie ausprobiert. Ein Fehler? Dann wird er auseinandergenommen. Eine bessere Lösung? Dann wird sie gebaut.
 
-Die meisten meiner Projekte starten mit einer einfachen Frage:
+> **„Könnte ich das selbst bauen?“**
+>
+> Meistens ist genau das der Start eines neuen Projekts.
 
-> „Könnte ich das selbst bauen?“
+---
 
-⸻
-
-🌐 Portfolio
+## 🧰 Mein Tech-Stack
 
 <div align="center">
 
-Du möchtest sehen, woran ich gerade arbeite?
+### Sprachen
+<img src="https://skillicons.dev/icons?i=js,ts,lua,kotlin,html,css,cpp"/>
 
-<a href="https://kugelwasser-portfolio.netlify.app">
-<img src="https://img.shields.io/badge/MEIN%20PORTFOLIO%20ENTDECKEN-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+### Frameworks & Tools
+<img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,firebase,supabase,androidstudio,git,github,vscode"/>
 
-Projekte · Skills · Experimente · Mehr über mich
+### Infrastruktur
+<img src="https://skillicons.dev/icons?i=linux,docker,cloudflare,nginx"/>
 
 </div>
 
-⸻
+---
 
-🛠️ Tech-Stack
-
-<div align="center">
-
-Programmiersprachen
-
-<img src="https://skillicons.dev/icons?i=js,lua,ts,kotlin,html,css,cpp" />
-
-Frameworks & Tools
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,firebase,supabase,androidstudio,git,github,vscode" />
-
-Infrastruktur
-
-<img src="https://skillicons.dev/icons?i=linux,docker,cloudflare,nginx" />
-</div>
-
-⸻
-
-⚡ Was ich mache
+## 🚀 Was ich baue
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="50%" valign="top">
 
-🌐 Webentwicklung
+### 🌐 Webentwicklung
 
-Ich entwickle moderne Websites und Anwendungen mit Fokus auf sauberem Design, einfacher Bedienung und flüssigen Interaktionen.
+Moderne Websites und Web-Apps mit Fokus auf **Design, Performance und UX**.
 
-JavaScript · React · HTML · CSS · Tailwind
-
-</td>
-<td width="33%" align="center">
-
-📱 App-Entwicklung
-
-Ich beschäftige mich mit der Entwicklung mobiler Anwendungen und probiere verschiedene Ansätze für App-Entwicklung aus.
-
-Kotlin · Jetpack Compose · Android · Expo
+`JavaScript` `TypeScript` `React` `HTML` `CSS` `Tailwind`
 
 </td>
-<td width="33%" align="center">
+<td width="50%" valign="top">
 
-🧪 Experimente
+### 🎮 FiveM & Multiplayer
 
-Ich baue Dinge manchmal einfach, weil ich wissen möchte, ob ich es kann.
+Eigene Resources, Systeme und NUI-Oberflächen für **FiveM-Server**.
 
-Node.js · Lua · C++ · APIs · Automatisierung
+`Lua` `JavaScript` `NUI` `Server Architecture`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📱 Appentwicklung
+
+Android- und Cross-Platform-Experimente – von kleinen Ideen bis zu kompletten Apps.
+
+`Kotlin` `Jetpack Compose` `Android` `Expo`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪 Experimente
+
+APIs, Automatisierung, Server, Backend-Systeme und alles, bei dem ich wissen will: **„Geht das?“**
+
+`Node.js` `C++` `APIs` `Automation`
 
 </td>
 </tr>
 </table>
 
-⸻
+---
 
-🚀 Ausgewählte Projekte
+## ⭐ Projekte
 
-<table>
-<tr>
-<td width="50%">
+### 🎮 FiveM-Projekte
+Eigene Multiplayer-Systeme und Server-Resources – von GPS-Tracking und Duty-Systemen bis zu NUI-Menüs und komplexeren Server-Mechaniken.
 
-🎮 FiveM-Projekte
+### 🎵 SoundCrafter
+Eine eigene **Digital Audio Workstation (DAW)** als langfristiges Experiment. Ziel: verstehen, wie moderne Musiksoftware technisch von Grund auf funktioniert.
 
-Individuelle Multiplayer-Systeme und Experimente mit Lua und JavaScript.
+### 🌐 Noto
+Ein modernes Webprojekt mit Fokus auf **klarer Oberfläche, einfacher Bedienung und sauberer Umsetzung**.
 
-Schwerpunkte:
+### 📱 App-Projekte
+Verschiedene Experimente mit Android, Kotlin, Jetpack Compose und plattformübergreifender Entwicklung.
 
-* Eigene Resources
-* NUI-Oberflächen
-* Multiplayer-Systeme
-* Server-Architektur
-* Experimentelles Gameplay
+---
 
-Lua · JavaScript · FiveM
-
-</td>
-<td width="50%">
-
-🎵 SoundCrafter
-
-Eine Idee für eine eigene digitale Audio-Workstation.
-
-Das Ziel ist es, zu erforschen, wie moderne Musikproduktionssoftware von Grund auf entwickelt und aufgebaut werden kann.
-
-C++ · Audio-DSP
-
-</td>
-</tr>
-<tr>
-<td>
-
-🌐 Noto
-
-Ein modernes Webprojekt mit Fokus auf einer übersichtlichen und einfachen Benutzererfahrung.
-
-HTML · JavaScript · Tailwind CSS
-
-</td>
-<td>
-
-📱 App-Projekte
-
-Verschiedene Experimente rund um Android- und plattformübergreifende App-Entwicklung.
-
-Kotlin · Jetpack Compose · Expo
-
-</td>
-</tr>
-</table>
-
-⸻
-
-🧠 Meine Herangehensweise
+## 🧠 Meine Philosophie
 
 <div align="center">
 
-Lernen → Bauen → Kaputtmachen → Reparieren → Verbessern
+**IDEA → CODE → TEST → BREAK → DEBUG → IMPROVE**
+
+<br><br>
+
+Ich will nicht nur wissen, **wie** etwas funktioniert.
+
+Ich will verstehen, **warum**.
 
 <br>
 
-Ich möchte nicht nur wissen, wie etwas funktioniert.
+Wenn es noch nicht existiert, ist das kein Grund aufzuhören.
 
-Ich möchte verstehen, warum es funktioniert.
-
-<br>
-
-Und wenn etwas noch nicht existiert:
-
-Versuche ich, es selbst zu bauen.
+**Dann wird es eben gebaut.**
 
 </div>
 
-⸻
+---
 
-🎯 Aktuell beschäftige ich mich mit
+## 🔭 Aktuell auf meinem Radar
 
-<table>
-<tr>
-<td>🌐</td>
-<td><strong>Moderner Webentwicklung</strong></td>
-</tr>
-<tr>
-<td>⚛️</td>
-<td><strong>React & JavaScript</strong></td>
-</tr>
-<tr>
-<td>📱</td>
-<td><strong>Android- & App-Entwicklung</strong></td>
-</tr>
-<tr>
-<td>🎮</td>
-<td><strong>Game- & Multiplayer-Entwicklung</strong></td>
-</tr>
-<tr>
-<td>🎵</td>
-<td><strong>Musiktechnologie</strong></td>
-</tr>
-<tr>
-<td>🧠</td>
-<td><strong>Software-Architektur</strong></td>
-</tr>
-</table>
+- ⚛️ React & moderne Webentwicklung
+- 🧩 Software- und Systemarchitektur
+- 🎮 FiveM & Multiplayer-Entwicklung
+- 📱 Android & Appentwicklung
+- 🎵 Audio- und Musiktechnologie
+- 🖥️ Backend, APIs & Server
+- 🧪 Neue Technologien ausprobieren
 
-⸻
+---
 
-📊 GitHub-Statistiken
+## 📊 GitHub
 
 <div align="center">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kugelwasser&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kugelwasser&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br>
+
 <img src="https://streak-stats.demolab.com/?user=Kugelwasser&theme=tokyonight&hide_border=true"/>
+
 </div>
 
-⸻
+---
 
-🏆 GitHub-Trophäen
+## 🏆 GitHub-Trophäen
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Kugelwasser&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4"/>
 </div>
 
-⸻
+---
 
-🐍 Contribution-Aktivität
+## 🐍 Meine Contributions
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Kugelwasser/Kugelwasser/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </div>
 
-⸻
+---
 
-🔗 Wo du mich findest
-
-<div align="center">
-<a href="https://kugelwasser-portfolio.netlify.app">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-6C63FF?style=for-the-badge"/>
-</a>
-<a href="https://github.com/Kugelwasser">
-<img src="https://img.shields.io/badge/💻%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=Kugelwasser&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS"/>
-</div>
-
-⸻
+## 🌐 Mehr von mir
 
 <div align="center">
 
-⚡ Bau etwas. Mach etwas kaputt. Lern etwas.
+<a href="https://kugelwasser-portfolio.netlify.app"><img src="https://img.shields.io/badge/🌐%20PORTFOLIO-06B6D4?style=for-the-badge"/></a>
+<a href="https://github.com/Kugelwasser"><img src="https://img.shields.io/badge/💻%20GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<br>
+<br><br>
 
-Danke fürs Vorbeischauen 👋
+<img src="https://komarev.com/ghpvc/?username=Kugelwasser&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
 
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6C63FF&height=120&section=footer" width="100%"/>
+
+---
+
+<div align="center">
+
+### ⚡ Build it. Break it. Understand it. Improve it.
+
+**Danke fürs Vorbeischauen. 👋**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:7C3AED&height=130&section=footer" width="100%"/>
+
+</div>
