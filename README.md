@@ -1,56 +1,62 @@
-👋 Hey, I’m Luca!
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C2FF&height=220&section=header&text=Luca&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Creator%20%7C%20Builder&descAlignY=60&descSize=20" width="100%"/>
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+things+that+actually+work.;Code.+Create.+Improve.;Always+learning.+Always+building.;Turning+ideas+into+reality." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+things+that+actually+work.;Code.+Create.+Improve.;Always+learning.+Always+building.;Turning+ideas+into+reality." alt="Typing SVG"/>
+<a href="https://kugelwasser-portfolio.netlify.app">
+<img src="https://img.shields.io/badge/🚀%20MY%20PORTFOLIO-6C63FF?style=for-the-badge" />
+</a>
+<a href="https://github.com/Kugelwasser">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 </div>
 
 ⸻
 
-🧑‍💻 About Me
+👋 Hey, I’m Luca!
 
-const luca = {
-    role: "Developer",
-    location: "Germany 🇩🇪",
-    interests: [
-        "Software Development",
-        "Web Development",
-        "App Development",
-        "Creative Technology",
-        "Music Technology"
-    ],
-    languages: [
-        "JavaScript",
-        "Lua",
-        "Kotlin",
-        "HTML",
-        "CSS",
-        "C++"
-    ],
-    currentlyLearning: [
-        "React",
-        "Node.js",
-        "Backend Development",
-        "Advanced Software Architecture"
-    ],
-    mindset: "Build. Learn. Improve. Repeat."
-};
+I’m a developer who enjoys turning ideas into real projects.
+
+I like experimenting with different technologies, learning how things work under the hood and building my own solutions instead of always relying on existing ones.
+
+My main interests are web development, software development, app development and creative technology.
+
+Most of my projects start with a simple question:
+
+“Could I build that myself?”
 
 ⸻
 
-🌐 My Portfolio
+🌐 Portfolio
 
 <div align="center">
 
 Want to see what I’m working on?
 
-<a href="https://DEIN-PORTFOLIO.de">
-<img src="https://img.shields.io/badge/🚀%20VISIT%20MY%20PORTFOLIO-6C63FF?style=for-the-badge&logoColor=white" />
+<a href="https://kugelwasser-portfolio.netlify.app">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 Projects · Skills · Experiments · More about me
 
+</div>
+
+⸻
+
+🛠️ Tech Stack
+
+<div align="center">
+
+Languages
+
+<img src="https://skillicons.dev/icons?i=js,lua,ts,kotlin,html,css,cpp" />
+
+Frameworks & Tools
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,firebase,supabase,androidstudio,git,github,vscode" />
+
+Infrastructure
+
+<img src="https://skillicons.dev/icons?i=linux,docker,cloudflare,nginx" />
 </div>
 
 ⸻
@@ -61,66 +67,33 @@ Projects · Skills · Experiments · More about me
 <tr>
 <td width="33%" align="center">
 
-🌐 Web
+🌐 Web Development
 
-Modern websites and applications with a focus on clean interfaces and good UX.
+I enjoy creating modern websites and applications with a focus on clean design, usability and smooth interactions.
 
-JavaScript
-React
-HTML
-CSS
-Tailwind
+JavaScript · React · HTML · CSS · Tailwind
 
 </td>
 <td width="33%" align="center">
 
-📱 Apps
+📱 App Development
 
-Experimenting with mobile development and building applications.
+I’m interested in building mobile applications and exploring different approaches to app development.
 
-Kotlin
-Jetpack Compose
-Android
-Expo
+Kotlin · Jetpack Compose · Android · Expo
 
 </td>
 <td width="33%" align="center">
 
 🧪 Experiments
 
-I like building things simply because I want to know if I can.
+I like building things simply because I want to understand whether I can.
 
-FiveM
-Node.js
-C++
-APIs
-Automation
+Node.js · Lua · C++ · APIs · Automation
 
 </td>
 </tr>
 </table>
-
-⸻
-
-🛠️ Tech Stack
-
-Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,lua,ts,kotlin,html,css,cpp" />
-</p>
-
-Frameworks & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,firebase,supabase,androidstudio,git,github,vscode" />
-</p>
-
-Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,docker,cloudflare,nginx" />
-</p>
 
 ⸻
 
@@ -132,13 +105,15 @@ Infrastructure
 
 🎮 FiveM Projects
 
-Custom systems and experiments built around FiveM and Lua.
+Custom multiplayer systems and experiments built with Lua and JavaScript.
+
+Focus:
 
 * Custom resources
 * NUI interfaces
 * Multiplayer systems
 * Server architecture
-* Experimental gameplay systems
+* Experimental gameplay
 
 Lua JavaScript FiveM
 
@@ -149,7 +124,7 @@ Lua JavaScript FiveM
 
 An idea for a custom digital audio workstation.
 
-The goal is to explore how modern music-production software could be designed from the ground up.
+The goal is to explore how modern music-production software could be designed and built from the ground up.
 
 C++ Audio DSP
 
@@ -160,7 +135,7 @@ C++ Audio DSP
 
 🌐 Noto
 
-A modern web project focused on a clean and simple user experience.
+A modern web project focused on creating a clean and simple user experience.
 
 HTML JavaScript Tailwind CSS
 
@@ -169,7 +144,7 @@ HTML JavaScript Tailwind CSS
 
 📱 App Projects
 
-Various experiments around Android and cross-platform development.
+Various experiments around Android and cross-platform application development.
 
 Kotlin Jetpack Compose Expo
 
@@ -179,71 +154,95 @@ Kotlin Jetpack Compose Expo
 
 ⸻
 
-📊 GitHub Stats
+🧠 My Approach
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DEIN_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DEIN_USERNAME&theme=tokyonight&hide_border=true"/>
+
+Learn → Build → Break → Fix → Improve
+
+<br>
+
+I don’t just want to know how something works.
+
+I want to understand why it works.
+
+<br>
+
+And when something doesn’t exist yet:
+
+I’ll try to build it myself.
+
 </div>
-
-⸻
-
-🧠 How I Think About Development
-
-I don’t just want to use technology. I want to understand it.
-
-When I find something interesting, I usually don’t stop at:
-
-"How do I use this?"
-
-I want to know:
-
-"How does this actually work?"
-
-And then:
-
-"Can I build my own version?"
-
-That’s where most of my projects start.
 
 ⸻
 
 🎯 Currently Exploring
 
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│   🌐 Web Development                                 │
-│   ⚛️  React & JavaScript                             │
-│   📱 App Development                                 │
-│   🎮 Game / FiveM Development                        │
-│   🎵 Music Technology                                │
-│   🧠 Software Architecture                           │
-│                                                      │
-└──────────────────────────────────────────────────────┘
+<table>
+<tr>
+<td>🌐</td>
+<td><strong>Modern Web Development</strong></td>
+</tr>
+<tr>
+<td>⚛️</td>
+<td><strong>React & JavaScript</strong></td>
+</tr>
+<tr>
+<td>📱</td>
+<td><strong>Android & App Development</strong></td>
+</tr>
+<tr>
+<td>🎮</td>
+<td><strong>Game & Multiplayer Development</strong></td>
+</tr>
+<tr>
+<td>🎵</td>
+<td><strong>Music Technology</strong></td>
+</tr>
+<tr>
+<td>🧠</td>
+<td><strong>Software Architecture</strong></td>
+</tr>
+</table>
+
+⸻
+
+📊 GitHub Stats
+
+<div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kugelwasser&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kugelwasser&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=Kugelwasser&theme=tokyonight&hide_border=true"/>
+</div>
 
 ⸻
 
 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=DEIN_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Kugelwasser&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4"/>
 </div>
 
 ⸻
 
-💬 Let’s Connect
+🐍 Contribution Activity
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/Kugelwasser/Kugelwasser/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</div>
 
-I’m always interested in new ideas, projects and technologies.
+⸻
 
-<br>
-<a href="https://DEIN-PORTFOLIO.de">
+🔗 Find Me
+
+<div align="center">
+<a href="https://kugelwasser-portfolio.netlify.app">
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-6C63FF?style=for-the-badge"/>
 </a>
-<a href="https://github.com/DEIN_USERNAME">
+<a href="https://github.com/Kugelwasser">
+<img src="https://img.shields.io/badge/💻%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=DEIN_USERNAME&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Kugelwasser&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS"/>
 </div>
 
 ⸻
@@ -252,12 +251,9 @@ I’m always interested in new ideas, projects and technologies.
 
 ⚡ Build something. Break something. Learn something.
 
+<br>
+
 Thanks for stopping by 👋
 
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6C63FF&height=120&section=footer" width="100%"/>
-<!--
-Replace:
-DEIN_USERNAME → your GitHub username
-DEIN-PORTFOLIO.de → your portfolio URL
--->
