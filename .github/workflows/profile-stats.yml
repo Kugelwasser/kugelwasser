@@ -1,0 +1,46 @@
+name: Profile Stats
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/github-metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: Kugelwasser
+          base: header, activity, community, repositories, metadata
+          config_display: large
+          config_timezone: Europe/Berlin
+          repositories_forks: no
+          repositories_affiliations: owner, collaborator, organization_member
+          output_action: none
+
+      - name: Generate GitHub trophies
+        uses: soulteary/github-profile-trophy-action@v1.0.0
+        with:
+          options: 'username=Kugelwasser&theme=tokyonight&column=6&margin-w=10&margin-h=10&no-frame=true'
+          path: assets/github-trophies.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit generated images
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-metrics.svg assets/github-trophies.svg
+          git diff --cached --quiet || git commit -m "chore: update profile stats"
+          git push
