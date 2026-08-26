@@ -145,22 +145,23 @@ Wenn es noch nicht existiert, ist das kein Grund aufzuhören.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kugelwasser&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kugelwasser&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=Kugelwasser&theme=tokyonight&hide_border=true"/>
+<img src="./assets/github-metrics.svg" alt="GitHub Statistiken von Kugelwasser" width="90%"/>
 
 </div>
+
+> Die Statistik wird automatisch über **GitHub Actions** aktualisiert. Dadurch hängt sie nicht mehr von einer externen Vercel-Instanz ab.
 
 ---
 
 ## 🏆 GitHub-Trophäen
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Kugelwasser&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4"/>
+
+<img src="./assets/github-trophies.svg" alt="GitHub Trophäen von Kugelwasser" width="90%"/>
+
 </div>
+
+Die Trophäen werden ebenfalls automatisch generiert und im Repository gespeichert.
 
 ---
 
