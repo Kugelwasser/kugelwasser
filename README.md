@@ -1,7 +1,7 @@
 👋 Hey, I’m Luca!
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C2FF&height=220&section=header&text=Luca%20Schünemann&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20FiveM%20Scripter%20%7C%20Builder&descAlignY=60&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C2FF&height=220&section=header&text=Luca&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20FiveM%20Scripter%20%7C%20Builder&descAlignY=60&descSize=20" width="100%"/>
 <br>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+things+that+actually+work.;FiveM+%7C+Web+%7C+Apps+%7C+Tools;Always+learning.+Always+building.;Turning+ideas+into+code." alt="Typing SVG"/>
 </div>
