@@ -1,9 +1,9 @@
 👋 Hey, I’m Luca!
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C2FF&height=220&section=header&text=Luca&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20FiveM%20Scripter%20%7C%20Builder&descAlignY=60&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C2FF&height=220&section=header&text=Luca&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Creator%20%7C%20Builder&descAlignY=60&descSize=20" width="100%"/>
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+things+that+actually+work.;FiveM+%7C+Web+%7C+Apps+%7C+Tools;Always+learning.+Always+building.;Turning+ideas+into+code." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+things+that+actually+work.;Code.+Create.+Improve.;Always+learning.+Always+building.;Turning+ideas+into+reality." alt="Typing SVG"/>
 </div>
 
 ⸻
@@ -15,20 +15,43 @@ const luca = {
     location: "Germany 🇩🇪",
     interests: [
         "Software Development",
-        "FiveM Development",
         "Web Development",
         "App Development",
+        "Creative Technology",
         "Music Technology"
     ],
+    languages: [
+        "JavaScript",
+        "Lua",
+        "Kotlin",
+        "HTML",
+        "CSS",
+        "C++"
+    ],
     currentlyLearning: [
-        "Advanced Lua",
-        "FiveM Architecture",
         "React",
         "Node.js",
-        "Backend Development"
+        "Backend Development",
+        "Advanced Software Architecture"
     ],
-    motto: "If I can imagine it, I can probably build it."
+    mindset: "Build. Learn. Improve. Repeat."
 };
+
+⸻
+
+🌐 My Portfolio
+
+<div align="center">
+
+Want to see what I’m working on?
+
+<a href="https://DEIN-PORTFOLIO.de">
+<img src="https://img.shields.io/badge/🚀%20VISIT%20MY%20PORTFOLIO-6C63FF?style=for-the-badge&logoColor=white" />
+</a>
+
+Projects · Skills · Experiments · More about me
+
+</div>
 
 ⸻
 
@@ -36,64 +59,42 @@ const luca = {
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%" align="center">
 
-🎮 FiveM Development
+🌐 Web
 
-I build custom FiveM systems and resources from scratch.
+Modern websites and applications with a focus on clean interfaces and good UX.
 
-* 🚓 Police / RP systems
-* 📍 GPS & tracking systems
-* 📱 Custom phone systems
-* 🛡️ Admin systems
-* 👮 Duty systems
-* 🖥️ NUI interfaces
-* 🔧 Custom server frameworks
+JavaScript
+React
+HTML
+CSS
+Tailwind
 
 </td>
-<td width="50%">
+<td width="33%" align="center">
 
-🌐 Web Development
+📱 Apps
 
-I enjoy building modern, responsive interfaces.
+Experimenting with mobile development and building applications.
 
-* ⚛️ React
-* 🟨 JavaScript
-* 🎨 Tailwind CSS
-* 🌐 HTML & CSS
-* 🟢 Node.js
-* 🔥 Firebase
-* ⚡ Supabase
+Kotlin
+Jetpack Compose
+Android
+Expo
 
 </td>
-</tr>
-<tr>
-<td>
+<td width="33%" align="center">
 
-📱 App Development
+🧪 Experiments
 
-I also experiment with native and cross-platform applications.
+I like building things simply because I want to know if I can.
 
-* Kotlin
-* Jetpack Compose
-* Android Studio
-* Expo
-* React Native
-
-</td>
-<td>
-
-🎵 Creative Technology
-
-Coding isn’t the only thing I build.
-
-I’m also interested in:
-
-* 🎹 Music production
-* 🎛️ DAW development
-* 🎚️ Audio interfaces
-* 🤖 AI-assisted music
-* 💻 Music software
+FiveM
+Node.js
+C++
+APIs
+Automation
 
 </td>
 </tr>
@@ -123,62 +124,38 @@ Infrastructure
 
 ⸻
 
-🚀 Featured Projects
+🚀 Selected Projects
 
 <table>
 <tr>
 <td width="50%">
 
-🚓 FiveM Police Framework
+🎮 FiveM Projects
 
-A collection of custom systems designed for modern GTA RP servers.
+Custom systems and experiments built around FiveM and Lua.
 
-Features
-
-* Duty system
-* Admin system
-* GPS tracking
-* Player management
+* Custom resources
 * NUI interfaces
-* Police tools
-* Server-side events
+* Multiplayer systems
+* Server architecture
+* Experimental gameplay systems
 
-Lua JavaScript NUI FiveM
+Lua JavaScript FiveM
 
 </td>
 <td width="50%">
-
-📱 Custom FiveM Phone
-
-A custom in-game smartphone system.
-
-Planned features
-
-* 📞 Contacts
-* 💬 Messages
-* 📍 GPS
-* 👤 Player tracking
-* 🔔 Notifications
-* 📱 App system
-
-Lua JavaScript HTML CSS
-
-</td>
-</tr>
-<tr>
-<td>
 
 🎵 SoundCrafter
 
 An idea for a custom digital audio workstation.
 
-The goal:
-
-Build a DAW that combines a modern interface with powerful music-production tools.
+The goal is to explore how modern music-production software could be designed from the ground up.
 
 C++ Audio DSP
 
 </td>
+</tr>
+<tr>
 <td>
 
 🌐 Noto
@@ -186,6 +163,15 @@ C++ Audio DSP
 A modern web project focused on a clean and simple user experience.
 
 HTML JavaScript Tailwind CSS
+
+</td>
+<td>
+
+📱 App Projects
+
+Various experiments around Android and cross-platform development.
+
+Kotlin Jetpack Compose Expo
 
 </td>
 </tr>
@@ -198,64 +184,50 @@ HTML JavaScript Tailwind CSS
 <div align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=DEIN_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DEIN_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DEIN_USERNAME&theme=tokyonight&hide_border=true"/>
 </div>
 
 ⸻
 
-🐍 Contribution Activity
+🧠 How I Think About Development
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/DEIN_USERNAME/DEIN_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</div>
+I don’t just want to use technology. I want to understand it.
 
-⸻
-
-🎯 Currently Building
-
-<div align="center">
-████████████████████████████████████████ 100%
-FiveM Development       ████████████████████
-Web Development         █████████████████░░░
-App Development         ███████████████░░░░░
-Music Technology        ████████████░░░░░░░░
-</div>
-
-🔥 Current Focus
-
-* 🚓 Building custom FiveM resources
-* 📱 Developing a modular phone system
-* 📍 Working on player/GPS tracking
-* 🛡️ Creating reusable admin infrastructure
-* 🌐 Improving modern web development
-* 🎵 Exploring music-production software
-
-⸻
-
-🧠 My Developer Philosophy
-
-Don’t just use a framework. Understand what’s underneath it.
-
-I like building systems from the ground up because it teaches me how everything actually works.
-
-Instead of only asking:
+When I find something interesting, I usually don’t stop at:
 
 "How do I use this?"
 
-I prefer asking:
+I want to know:
 
-"How does this work?"
+"How does this actually work?"
 
-That’s usually where the interesting part begins.
+And then:
+
+"Can I build my own version?"
+
+That’s where most of my projects start.
 
 ⸻
 
-📈 GitHub Activity
+🎯 Currently Exploring
+
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│   🌐 Web Development                                 │
+│   ⚛️  React & JavaScript                             │
+│   📱 App Development                                 │
+│   🎮 Game / FiveM Development                        │
+│   🎵 Music Technology                                │
+│   🧠 Software Architecture                           │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+
+⸻
+
+🏆 GitHub Trophies
 
 <div align="center">
-<a href="https://github.com/DEIN_USERNAME">
-<img src="https://github-profile-trophy.vercel.app/?username=DEIN_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" />
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=DEIN_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4"/>
 </div>
 
 ⸻
@@ -264,22 +236,28 @@ That’s usually where the interesting part begins.
 
 <div align="center">
 
-If you’re interested in development, FiveM, programming or building cool projects:
-
-Let’s build something.
+I’m always interested in new ideas, projects and technologies.
 
 <br>
+<a href="https://DEIN-PORTFOLIO.de">
+</a>
+<a href="https://github.com/DEIN_USERNAME">
+</a>
+<img src="https://komarev.com/ghpvc/?username=DEIN_USERNAME&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS"/>
 </div>
 
 ⸻
 
 <div align="center">
 
-⚡ Thanks for visiting!
+⚡ Build something. Break something. Learn something.
 
-<img src="https://komarev.com/ghpvc/?username=DEIN_USERNAME&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" />
-
-Built with ❤️ and way too much coffee ☕
+Thanks for stopping by 👋
 
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6C63FF&height=120&section=footer" width="100%"/>
+<!--
+Replace:
+DEIN_USERNAME → your GitHub username
+DEIN-PORTFOLIO.de → your portfolio URL
+-->
