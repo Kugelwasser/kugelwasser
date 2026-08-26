@@ -1,9 +1,9 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C2FF&height=220&section=header&text=Luca&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Creator%20%7C%20Builder&descAlignY=60&descSize=20" width="100%"/>
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+things+that+actually+work.;Code.+Create.+Improve.;Always+learning.+Always+building.;Turning+ideas+into+reality." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Ich+baue+Dinge%2C+die+wirklich+funktionieren.;Code.+Erschaffen.+Verbessern.;Immer+lernen.+Immer+bauen.;Ideen+in+Realität+verwandeln." alt="Typing SVG"/>
 <a href="https://kugelwasser-portfolio.netlify.app">
-<img src="https://img.shields.io/badge/🚀%20MY%20PORTFOLIO-6C63FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🚀%20MEIN%20PORTFOLIO-6C63FF?style=for-the-badge" />
 </a>
 <a href="https://github.com/Kugelwasser">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -12,17 +12,17 @@
 
 ⸻
 
-👋 Hey, I’m Luca!
+👋 Hey, ich bin Luca!
 
-I’m a developer who enjoys turning ideas into real projects.
+Ich bin Entwickler und habe Spaß daran, Ideen in echte Projekte zu verwandeln.
 
-I like experimenting with different technologies, learning how things work under the hood and building my own solutions instead of always relying on existing ones.
+Ich probiere gerne verschiedene Technologien aus, möchte verstehen, was unter der Oberfläche passiert, und baue meine eigenen Lösungen, anstatt mich immer auf fertige Systeme zu verlassen.
 
-My main interests are web development, software development, app development and creative technology.
+Meine Hauptinteressen sind Webentwicklung, Softwareentwicklung, App-Entwicklung und kreative Technologien.
 
-Most of my projects start with a simple question:
+Die meisten meiner Projekte starten mit einer einfachen Frage:
 
-“Could I build that myself?”
+> „Könnte ich das selbst bauen?“
 
 ⸻
 
@@ -30,23 +30,23 @@ Most of my projects start with a simple question:
 
 <div align="center">
 
-Want to see what I’m working on?
+Du möchtest sehen, woran ich gerade arbeite?
 
 <a href="https://kugelwasser-portfolio.netlify.app">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/MEIN%20PORTFOLIO%20ENTDECKEN-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-Projects · Skills · Experiments · More about me
+Projekte · Skills · Experimente · Mehr über mich
 
 </div>
 
 ⸻
 
-🛠️ Tech Stack
+🛠️ Tech-Stack
 
 <div align="center">
 
-Languages
+Programmiersprachen
 
 <img src="https://skillicons.dev/icons?i=js,lua,ts,kotlin,html,css,cpp" />
 
@@ -54,42 +54,42 @@ Frameworks & Tools
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,firebase,supabase,androidstudio,git,github,vscode" />
 
-Infrastructure
+Infrastruktur
 
 <img src="https://skillicons.dev/icons?i=linux,docker,cloudflare,nginx" />
 </div>
 
 ⸻
 
-⚡ What I Do
+⚡ Was ich mache
 
 <table>
 <tr>
 <td width="33%" align="center">
 
-🌐 Web Development
+🌐 Webentwicklung
 
-I enjoy creating modern websites and applications with a focus on clean design, usability and smooth interactions.
+Ich entwickle moderne Websites und Anwendungen mit Fokus auf sauberem Design, einfacher Bedienung und flüssigen Interaktionen.
 
 JavaScript · React · HTML · CSS · Tailwind
 
 </td>
 <td width="33%" align="center">
 
-📱 App Development
+📱 App-Entwicklung
 
-I’m interested in building mobile applications and exploring different approaches to app development.
+Ich beschäftige mich mit der Entwicklung mobiler Anwendungen und probiere verschiedene Ansätze für App-Entwicklung aus.
 
 Kotlin · Jetpack Compose · Android · Expo
 
 </td>
 <td width="33%" align="center">
 
-🧪 Experiments
+🧪 Experimente
 
-I like building things simply because I want to understand whether I can.
+Ich baue Dinge manchmal einfach, weil ich wissen möchte, ob ich es kann.
 
-Node.js · Lua · C++ · APIs · Automation
+Node.js · Lua · C++ · APIs · Automatisierung
 
 </td>
 </tr>
@@ -97,36 +97,36 @@ Node.js · Lua · C++ · APIs · Automation
 
 ⸻
 
-🚀 Selected Projects
+🚀 Ausgewählte Projekte
 
 <table>
 <tr>
 <td width="50%">
 
-🎮 FiveM Projects
+🎮 FiveM-Projekte
 
-Custom multiplayer systems and experiments built with Lua and JavaScript.
+Individuelle Multiplayer-Systeme und Experimente mit Lua und JavaScript.
 
-Focus:
+Schwerpunkte:
 
-* Custom resources
-* NUI interfaces
-* Multiplayer systems
-* Server architecture
-* Experimental gameplay
+* Eigene Resources
+* NUI-Oberflächen
+* Multiplayer-Systeme
+* Server-Architektur
+* Experimentelles Gameplay
 
-Lua JavaScript FiveM
+Lua · JavaScript · FiveM
 
 </td>
 <td width="50%">
 
 🎵 SoundCrafter
 
-An idea for a custom digital audio workstation.
+Eine Idee für eine eigene digitale Audio-Workstation.
 
-The goal is to explore how modern music-production software could be designed and built from the ground up.
+Das Ziel ist es, zu erforschen, wie moderne Musikproduktionssoftware von Grund auf entwickelt und aufgebaut werden kann.
 
-C++ Audio DSP
+C++ · Audio-DSP
 
 </td>
 </tr>
@@ -135,18 +135,18 @@ C++ Audio DSP
 
 🌐 Noto
 
-A modern web project focused on creating a clean and simple user experience.
+Ein modernes Webprojekt mit Fokus auf einer übersichtlichen und einfachen Benutzererfahrung.
 
-HTML JavaScript Tailwind CSS
+HTML · JavaScript · Tailwind CSS
 
 </td>
 <td>
 
-📱 App Projects
+📱 App-Projekte
 
-Various experiments around Android and cross-platform application development.
+Verschiedene Experimente rund um Android- und plattformübergreifende App-Entwicklung.
 
-Kotlin Jetpack Compose Expo
+Kotlin · Jetpack Compose · Expo
 
 </td>
 </tr>
@@ -154,34 +154,34 @@ Kotlin Jetpack Compose Expo
 
 ⸻
 
-🧠 My Approach
+🧠 Meine Herangehensweise
 
 <div align="center">
 
-Learn → Build → Break → Fix → Improve
+Lernen → Bauen → Kaputtmachen → Reparieren → Verbessern
 
 <br>
 
-I don’t just want to know how something works.
+Ich möchte nicht nur wissen, wie etwas funktioniert.
 
-I want to understand why it works.
+Ich möchte verstehen, warum es funktioniert.
 
 <br>
 
-And when something doesn’t exist yet:
+Und wenn etwas noch nicht existiert:
 
-I’ll try to build it myself.
+Versuche ich, es selbst zu bauen.
 
 </div>
 
 ⸻
 
-🎯 Currently Exploring
+🎯 Aktuell beschäftige ich mich mit
 
 <table>
 <tr>
 <td>🌐</td>
-<td><strong>Modern Web Development</strong></td>
+<td><strong>Moderner Webentwicklung</strong></td>
 </tr>
 <tr>
 <td>⚛️</td>
@@ -189,25 +189,25 @@ I’ll try to build it myself.
 </tr>
 <tr>
 <td>📱</td>
-<td><strong>Android & App Development</strong></td>
+<td><strong>Android- & App-Entwicklung</strong></td>
 </tr>
 <tr>
 <td>🎮</td>
-<td><strong>Game & Multiplayer Development</strong></td>
+<td><strong>Game- & Multiplayer-Entwicklung</strong></td>
 </tr>
 <tr>
 <td>🎵</td>
-<td><strong>Music Technology</strong></td>
+<td><strong>Musiktechnologie</strong></td>
 </tr>
 <tr>
 <td>🧠</td>
-<td><strong>Software Architecture</strong></td>
+<td><strong>Software-Architektur</strong></td>
 </tr>
 </table>
 
 ⸻
 
-📊 GitHub Stats
+📊 GitHub-Statistiken
 
 <div align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kugelwasser&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
@@ -217,7 +217,7 @@ I’ll try to build it myself.
 
 ⸻
 
-🏆 GitHub Trophies
+🏆 GitHub-Trophäen
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Kugelwasser&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4"/>
@@ -225,7 +225,7 @@ I’ll try to build it myself.
 
 ⸻
 
-🐍 Contribution Activity
+🐍 Contribution-Aktivität
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Kugelwasser/Kugelwasser/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
@@ -233,7 +233,7 @@ I’ll try to build it myself.
 
 ⸻
 
-🔗 Find Me
+🔗 Wo du mich findest
 
 <div align="center">
 <a href="https://kugelwasser-portfolio.netlify.app">
@@ -249,11 +249,11 @@ I’ll try to build it myself.
 
 <div align="center">
 
-⚡ Build something. Break something. Learn something.
+⚡ Bau etwas. Mach etwas kaputt. Lern etwas.
 
 <br>
 
-Thanks for stopping by 👋
+Danke fürs Vorbeischauen 👋
 
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6C63FF&height=120&section=footer" width="100%"/>
