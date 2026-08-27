@@ -17,6 +17,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Prepare assets directory
+        run: mkdir -p assets
+
       - name: Generate GitHub metrics
         uses: lowlighter/metrics@latest
         with:
@@ -30,6 +33,11 @@ jobs:
           repositories_affiliations: owner, collaborator, organization_member
           output_action: none
 
+      - name: Copy generated metrics into repository
+        run: |
+          test -f /metrics_renders/assets/github-metrics.svg
+          cp /metrics_renders/assets/github-metrics.svg assets/github-metrics.svg
+
       - name: Generate GitHub trophies
         uses: soulteary/github-profile-trophy-action@v1.0.0
         with:
@@ -37,10 +45,21 @@ jobs:
           path: assets/github-trophies.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Verify generated images
+        run: |
+          test -s assets/github-metrics.svg
+          test -s assets/github-trophies.svg
+          echo "Generated images:"
+          ls -lh assets/github-metrics.svg assets/github-trophies.svg
+
       - name: Commit generated images
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets/github-metrics.svg assets/github-trophies.svg
-          git diff --cached --quiet || git commit -m "chore: update profile stats"
+          if git diff --cached --quiet; then
+            echo "No image changes to commit."
+            exit 0
+          fi
+          git commit -m "chore: update profile stats"
           git push
