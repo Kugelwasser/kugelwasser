@@ -15,8 +15,6 @@
 
 ## 👋 Hey, ich bin Lucore
 
-**Lucore** ist mein neuer Online-Name.
-
 Ich entwickle Software, Websites, Apps und Multiplayer-Systeme und probiere ständig neue Technologien aus. Dabei geht es mir nicht nur darum, dass etwas funktioniert – ich will verstehen, **warum** es funktioniert.
 
 Ich lerne am liebsten, indem ich Dinge selbst baue. Eine Idee? Ausprobieren. Ein Fehler? Debuggen. Eine bessere Lösung? Bauen.
