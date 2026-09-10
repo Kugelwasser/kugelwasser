@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:06B6D4&height=240&section=header&text=Luca%20%2F%20Kugelwasser&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Problem%20Solver&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:06B6D4&height=240&section=header&text=Lucore&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Problem%20Solver&descAlignY=60&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=Ich+baue%2C+was+mir+in+den+Kopf+kommt.;Code.+Testen.+Kaputtmachen.+Verbessern.;Von+der+Idee+bis+zum+laufenden+System.;Neugierig+auf+Technik+unter+der+Haube." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=Code%2C+Design+und+Technik.;Ich+baue%2C+was+mir+in+den+Kopf+kommt.;Code.+Testen.+Kaputtmachen.+Verbessern.;Von+der+Idee+bis+zum+laufenden+System.;Neugierig+auf+Technik+unter+der+Haube." alt="Typing SVG"/>
 
 <br>
 
@@ -13,13 +13,13 @@
 
 ---
 
-## 👋 Wer steckt dahinter?
+## 👋 Hey, ich bin Lucore
 
-Hey, ich bin **Luca** – online meistens **Kugelwasser**.
+**Lucore** ist mein neuer Online-Name.
 
 Ich entwickle Software, Websites, Apps und Multiplayer-Systeme und probiere ständig neue Technologien aus. Dabei geht es mir nicht nur darum, dass etwas funktioniert – ich will verstehen, **warum** es funktioniert.
 
-Ich lerne am liebsten, indem ich Dinge selbst baue. Eine Idee? Dann wird sie ausprobiert. Ein Fehler? Dann wird er auseinandergenommen. Eine bessere Lösung? Dann wird sie gebaut.
+Ich lerne am liebsten, indem ich Dinge selbst baue. Eine Idee? Ausprobieren. Ein Fehler? Debuggen. Eine bessere Lösung? Bauen.
 
 > **„Könnte ich das selbst bauen?“**
 >
@@ -27,7 +27,7 @@ Ich lerne am liebsten, indem ich Dinge selbst baue. Eine Idee? Dann wird sie aus
 
 ---
 
-## 🧰 Mein Tech-Stack
+## 🧰 Tech-Stack
 
 <div align="center">
 
@@ -145,11 +145,11 @@ Wenn es noch nicht existiert, ist das kein Grund aufzuhören.
 
 <div align="center">
 
-<img src="./assets/github-metrics.svg" alt="GitHub Statistiken von Kugelwasser" width="90%"/>
+<img src="./assets/github-metrics.svg" alt="GitHub Statistiken von Lucore" width="90%"/>
 
 </div>
 
-> Die Statistik wird automatisch über **GitHub Actions** aktualisiert. Dadurch hängt sie nicht mehr von einer externen Vercel-Instanz ab.
+> Die Statistik wird automatisch über **GitHub Actions** aktualisiert.
 
 ---
 
@@ -157,18 +157,18 @@ Wenn es noch nicht existiert, ist das kein Grund aufzuhören.
 
 <div align="center">
 
-<img src="./assets/github-trophies.svg" alt="GitHub Trophäen von Kugelwasser" width="90%"/>
+<img src="./assets/github-trophies.svg" alt="GitHub Trophäen von Lucore" width="90%"/>
 
 </div>
 
-Die Trophäen werden ebenfalls automatisch generiert und im Repository gespeichert.
+Die Trophäen werden automatisch generiert und im Repository gespeichert.
 
 ---
 
 ## 🐍 Meine Contributions
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Kugelwasser/Kugelwasser/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/Kugelwasser/kugelwasser/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake von Lucore"/>
 </div>
 
 ---
@@ -192,7 +192,7 @@ Die Trophäen werden ebenfalls automatisch generiert und im Repository gespeiche
 
 ### ⚡ Build it. Break it. Understand it. Improve it.
 
-**Danke fürs Vorbeischauen. 👋**
+**Lucore — still building.**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:7C3AED&height=130&section=footer" width="100%"/>
 
